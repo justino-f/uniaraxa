@@ -1,0 +1,14 @@
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Aula02/Atividade05/bin/Debug/net8.0/Atividade05
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Aula02/Atividade05/bin/Debug/net8.0/Atividade05.deps.json
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Aula02/Atividade05/bin/Debug/net8.0/Atividade05.runtimeconfig.json
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Aula02/Atividade05/bin/Debug/net8.0/Atividade05.dll
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Aula02/Atividade05/bin/Debug/net8.0/Atividade05.pdb
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Aula02/Atividade05/obj/Debug/net8.0/Atividade05.GeneratedMSBuildEditorConfig.editorconfig
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Aula02/Atividade05/obj/Debug/net8.0/Atividade05.AssemblyInfoInputs.cache
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Aula02/Atividade05/obj/Debug/net8.0/Atividade05.AssemblyInfo.cs
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Aula02/Atividade05/obj/Debug/net8.0/Atividade05.csproj.CoreCompileInputs.cache
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Aula02/Atividade05/obj/Debug/net8.0/Atividade05.dll
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Aula02/Atividade05/obj/Debug/net8.0/refint/Atividade05.dll
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Aula02/Atividade05/obj/Debug/net8.0/Atividade05.pdb
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Aula02/Atividade05/obj/Debug/net8.0/Atividade05.genruntimeconfig.cache
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Aula02/Atividade05/obj/Debug/net8.0/ref/Atividade05.dll

@@ -1,0 +1,14 @@
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Programação Orientada a Objetos/Atividades/Aula02/bin/Debug/net8.0/Aula02
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Programação Orientada a Objetos/Atividades/Aula02/bin/Debug/net8.0/Aula02.deps.json
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Programação Orientada a Objetos/Atividades/Aula02/bin/Debug/net8.0/Aula02.runtimeconfig.json
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Programação Orientada a Objetos/Atividades/Aula02/bin/Debug/net8.0/Aula02.dll
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Programação Orientada a Objetos/Atividades/Aula02/bin/Debug/net8.0/Aula02.pdb
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Programação Orientada a Objetos/Atividades/Aula02/obj/Debug/net8.0/Aula02.GeneratedMSBuildEditorConfig.editorconfig
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Programação Orientada a Objetos/Atividades/Aula02/obj/Debug/net8.0/Aula02.AssemblyInfoInputs.cache
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Programação Orientada a Objetos/Atividades/Aula02/obj/Debug/net8.0/Aula02.AssemblyInfo.cs
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Programação Orientada a Objetos/Atividades/Aula02/obj/Debug/net8.0/Aula02.csproj.CoreCompileInputs.cache
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Programação Orientada a Objetos/Atividades/Aula02/obj/Debug/net8.0/Aula02.dll
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Programação Orientada a Objetos/Atividades/Aula02/obj/Debug/net8.0/refint/Aula02.dll
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Programação Orientada a Objetos/Atividades/Aula02/obj/Debug/net8.0/Aula02.pdb
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Programação Orientada a Objetos/Atividades/Aula02/obj/Debug/net8.0/Aula02.genruntimeconfig.cache
+/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Programação Orientada a Objetos/Atividades/Aula02/obj/Debug/net8.0/ref/Aula02.dll
