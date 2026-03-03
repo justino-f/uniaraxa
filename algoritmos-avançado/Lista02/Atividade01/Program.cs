@@ -1,4 +1,9 @@
-﻿using System;
+﻿//Disciplina: Algoritmos e Programação Avançada
+//Professor: Estheban Rivas
+//Aluno: Renato Justino
+//Crie um programa que leia dois números inteiros e mostre a soma, subtração, multiplicação e divisão do primeiro pelo segundo.
+
+using System;
 
 internal class Program
 {

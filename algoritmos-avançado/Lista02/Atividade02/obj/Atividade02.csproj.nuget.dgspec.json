@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Lista01/Atividade02/Atividade02.csproj": {}
+    "/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade02/Atividade02.csproj": {}
   },
   "projects": {
-    "/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Lista01/Atividade02/Atividade02.csproj": {
+    "/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade02/Atividade02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Lista01/Atividade02/Atividade02.csproj",
+        "projectUniqueName": "/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade02/Atividade02.csproj",
         "projectName": "Atividade02",
-        "projectPath": "/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Lista01/Atividade02/Atividade02.csproj",
+        "projectPath": "/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade02/Atividade02.csproj",
         "packagesPath": "/home/cortina/.nuget/packages/",
-        "outputPath": "/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Lista01/Atividade02/obj/",
+        "outputPath": "/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade02/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/cortina/.nuget/NuGet/NuGet.Config"
