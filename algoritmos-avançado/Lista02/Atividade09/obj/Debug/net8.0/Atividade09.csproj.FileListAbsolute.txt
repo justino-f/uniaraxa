@@ -1,0 +1,15 @@
+/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade09/bin/Debug/net8.0/Atividade09
+/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade09/bin/Debug/net8.0/Atividade09.deps.json
+/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade09/bin/Debug/net8.0/Atividade09.runtimeconfig.json
+/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade09/bin/Debug/net8.0/Atividade09.dll
+/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade09/bin/Debug/net8.0/Atividade09.pdb
+/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade09/obj/Debug/net8.0/Atividade09.GeneratedMSBuildEditorConfig.editorconfig
+/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade09/obj/Debug/net8.0/Atividade09.AssemblyInfoInputs.cache
+/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade09/obj/Debug/net8.0/Atividade09.AssemblyInfo.cs
+/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade09/obj/Debug/net8.0/Atividade09.csproj.CoreCompileInputs.cache
+/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade09/obj/Debug/net8.0/Atividade09.sourcelink.json
+/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade09/obj/Debug/net8.0/Atividade09.dll
+/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade09/obj/Debug/net8.0/refint/Atividade09.dll
+/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade09/obj/Debug/net8.0/Atividade09.pdb
+/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade09/obj/Debug/net8.0/Atividade09.genruntimeconfig.cache
+/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade09/obj/Debug/net8.0/ref/Atividade09.dll
