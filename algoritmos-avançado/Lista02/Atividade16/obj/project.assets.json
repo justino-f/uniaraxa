@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Lista01/Atividade16/Atividade16.csproj",
+      "projectUniqueName": "/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade16/Atividade16.csproj",
       "projectName": "Atividade16",
-      "projectPath": "/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Lista01/Atividade16/Atividade16.csproj",
+      "projectPath": "/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade16/Atividade16.csproj",
       "packagesPath": "/home/cortina/.nuget/packages/",
-      "outputPath": "/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Lista01/Atividade16/obj/",
+      "outputPath": "/home/cortina/Dropbox/university/uniaraxa/algoritmos-avançado/Lista02/Atividade16/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/cortina/.nuget/NuGet/NuGet.Config"
