@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PS2HLJvJyQQ=",
+  "dgSpecHash": "VazfOTyx8lI=",
   "success": true,
-  "projectFilePath": "/home/cortina/Dropbox/Vault/4 - College/UNIARAXA/3°/Algoritmos e Programação Avançada/Lista01/Atividade19/Atividade19.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\justi\\Dropbox\\university\\uniaraxa\\algoritmos-avançado\\Lista02\\Atividade19\\Atividade19.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.24\\microsoft.netcore.app.host.win-x64.8.0.24.nupkg.sha512"
+  ],
   "logs": []
 }
