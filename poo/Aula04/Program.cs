@@ -6,23 +6,18 @@ internal class Program
   static void Main(string[] args)
   {
     Boletim boletim = new Boletim();
-
     Console.Write("Aluno: ");
     string nomeAluno = Console.ReadLine()!;
     boletim.aluno.Nome = nomeAluno;
-
     Console.Write("Disciplina: ");
     string nomeDisciplina = Console.ReadLine()!;
     boletim.disciplina.Nome = nomeDisciplina;
-
     Console.Write("Professor: ");
     string nomeProfessor = Console.ReadLine()!;
     boletim.professor.Nome = nomeProfessor;
-
     Console.Write("Insira as notas. (a b c): ");
     var n = Console.ReadLine()!.Split(' ', StringSplitOptions.RemoveEmptyEntries).Select(double.Parse).ToArray();
     boletim.Notas = n;
-  
     Output(boletim);
   }
 
