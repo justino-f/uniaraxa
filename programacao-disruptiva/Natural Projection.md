@@ -1,3 +1,12 @@
+---
+cssclasses:
+  - image-borders
+  - center-images
+  - center-titles
+---
+![[Pasted image 20260323214525.png]]
+
+# Teste
 
 ---
 Consider:
@@ -23,3 +32,7 @@ If:
 - Σᵤₒ = {b}
 Then:
 P(abcab) = aca
+
+
+
+![[Pasted image 20260323214512.png]]
