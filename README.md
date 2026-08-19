@@ -2,4 +2,4 @@ Repositório dedicado para a disponibilização de exercícios de programação 
 
 - Aluno: Renato Justino da Silva Filho
 - Curso: Sistemas de Informação
-- Período: 3°
+- Período: 4°
