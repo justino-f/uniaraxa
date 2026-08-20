@@ -112,7 +112,7 @@ internal class Program
     if (hasFork[itemIndex])
     {
       ShowActionMessage($"Philosopher {philosopher} already has Fork {philosopher}.");
-      return false;
+      return true;
     }
 
     hasFork[itemIndex] = true;
@@ -127,7 +127,7 @@ internal class Program
     if (hasKnife[itemIndex])
     {
       ShowActionMessage($"Philosopher {philosopher} already has Knife {philosopher}.");
-      return false;
+      return true;
     }
 
     hasKnife[itemIndex] = true;
@@ -158,12 +158,10 @@ internal class Program
       ShowHeader();
       Console.WriteLine("[1] - Take Fork");
       Console.WriteLine("[2] - Take Knife");
-      Console.WriteLine("[3] - Return Fork and Knife");
-      Console.WriteLine("[4] - Eat");
       Console.WriteLine("[0] - Back");
       Console.Write(": ");
 
-      int input = ReadOptionInRange(0, 4, "Invalid option. Try again.");
+      int input = ReadOptionInRange(0, 2, "Invalid option. Try again.");
       switch (input)
       {
         case 1:
